@@ -8,7 +8,7 @@ Find the deployed version at [inshorts.gitword.com](https://inshorts.gitword.com
 ## `bash deploy-react.sh`
 
 Runs the app in the development mode.\
-Open [http://localhost:9085](http://localhost:9085) to view it in the browser.
+Open [http://localhost:9085](https://inshorts.gitword.com) locally to view it in the browser.
 
 
 
