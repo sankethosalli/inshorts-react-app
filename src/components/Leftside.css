@@ -1,0 +1,10 @@
+.categories-heading{
+ font-size:90%;
+    color:rgba(206, 206, 206, 0.9);
+    
+}
+
+.right{
+    display: none;
+/* cursor: pointer; */
+}

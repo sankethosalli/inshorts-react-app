@@ -1,0 +1,45 @@
+.inshorts-small-white{
+    color:white;
+    font-weight: 900;
+}
+
+.inshorts-small-grey{
+    font-size:90%;
+    color:grey;
+}
+
+
+.flex-container{
+    display:flex;
+}
+
+.footer-vertical-seperator{
+    margin-left: 16px;
+    margin-right: 6px;
+    height: 16vh;
+    width:1px;
+    /* color:white; */
+background-color: white;
+opacity: 0.4;
+}
+
+
+
+.footer .right-box{
+padding:6px;
+margin-left:16px;
+
+}
+
+.footer .right-box .contact-us{
+font-weight: 900;
+font-size:170%;
+font-family:Arial, Helvetica, sans-serif;
+
+    color:white;
+}
+
+
+.footer .right-box .others{
+    color:rgb(199, 199, 199);
+}
