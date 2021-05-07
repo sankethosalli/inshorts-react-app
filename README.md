@@ -2,7 +2,7 @@
 
 This is an attempt to build a clone of Inshorts News App, with the faith of learning ReactJS.
 
-Find the deployed version at [inshorts.gitword.com](https://inshorts.gitword.com)
+Find the live version at [inshorts.gitword.com](https://inshorts.gitword.com)
 
 
 ## `bash deploy-react.sh`
